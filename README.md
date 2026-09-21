@@ -1,7 +1,6 @@
 # 👩🏻‍💻 Guilherme
 
 # 👋 Olá! Eu sou o Guilherme
-## 🎯 Buscando uma oportunidade no mercado da tecnologia como Trainee/Estágio/Efetivo
 Sou estudante de **Engenharia de Software** e apaixonado por tecnologia. Atualmente, estou focado em aprender **Python e Análise de Dados**, **estudei por um tempo tambem C# e .NET**e estou em transição de carreira. Busco uma oportunidade onde eu possa aplicar minha base teórica e minha vontade de aprender na prática!
 
 <p align="left">
